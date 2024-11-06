@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "dh2e-statgen",
+    "slug": "dh2e-statgen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/faviconn.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/i.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/faviconn.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/faviconn.png"
+    }
+  }
+}
